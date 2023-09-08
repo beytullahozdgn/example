@@ -1,1 +1,1 @@
-[# example] Page Link: (https://beytullahozdgn.github.io/traine-allstars-css2/)
+Page Link: (https://beytullahozdgn.github.io/traine-allstars-css2/)
